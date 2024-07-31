@@ -2,12 +2,20 @@
 
 > A curated list of awesome dataset tools
 
+- [Dataset Cleanup Tools](#dataset-cleanup-tools)
 - [Labeling Tools](#labeling-tools)
   - [Images](#images)
   - [Audio](#audio)
   - [Time Series](#time-series)
   - [Text](#text)
 - [Libraries](#libraries)
+
+## Dataset Cleanup Tools
+
+- [cleanvision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision
+- [cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels
+- [fastdup](https://github.com/visual-layer/fastdup) - fastdup is a powerful free tool designed to rapidly extract valuable insights from your image & video datasets. Assisting you to increase your dataset images & labels quality and reduce your data operations costs at an unparalleled scale
+- [spotlight](https://github.com/Renumics/spotlight) -  Interactively explore unstructured datasets from your dataframe
 
 ## Labeling Tools
 
